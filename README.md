@@ -2,7 +2,7 @@
 Essa atividade tem o objetivo de explorar e visualizar conjuntos de dados relacionados à análise de doenças cardíacas.
 
 
-Conjunto de Dados:
+
 
 Você pode obter o conjunto de dados necessário no Kaggle Heart Failure Prediction Dataset:
 
